@@ -67,9 +67,15 @@ function FloatingParticle({ style }) {
   );
 }
 
+// export default function Resume() {
+//   const [visible, setVisible] = useState(false);
+//   // const [activeSection, setActiveSection] = useState(null);
+//   // Ye line hatao ya comment karo:
+//   const [activeSection, setActiveSection] = useState(null);
+
 export default function Resume() {
   const [visible, setVisible] = useState(false);
-  const [activeSection, setActiveSection] = useState(null);
+
 
   useEffect(() => {
     const t = setTimeout(() => setVisible(true), 100);
