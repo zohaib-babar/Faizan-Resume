@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import FaizanJaved_Resume from './FaizanJaved_Resume';
 function App() {
