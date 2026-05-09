@@ -1,5 +1,5 @@
 import './App.css';
-import FaizanJaved_Resume from './FaizanJaved_Resume';
+import Resume from './FaizanJaved_Resume';
 function App() {
   return (
     <div className="App">
