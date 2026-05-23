@@ -1,6 +1,5 @@
 import { useState, useEffect, } from "react";
-
-const logoImage = "https://media-mct1-1.cdn.whatsapp.net/v/t61.24694-24/623423638_2061621434788822_3718524742459508201_n.jpg?ccb=11-4&oh=01_Q5Aa4gHxUw0ZmtobEQ0yazZeB-uuxSiQoVIbauga-TOukK17_g&oe=6A0BC347&_nc_sid=5e03e0&_nc_cat=105";
+import logoImage from "./faizanpic.jpg";
 
 const skills = [
   { name: "Graphics Designing", level: 88, icon: "🎨" },
